@@ -1,0 +1,7 @@
+dog_years = int(input('Enter age of dog (in years): '))
+print()
+
+human_years = 7 * dog_years
+
+print(dog_years, 'dog years is about', end=' ')
+print (human_years, 'human years.')
